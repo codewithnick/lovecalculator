@@ -1,0 +1,48 @@
+title{
+
+}
+body {
+  font-size: 60;
+  background-image:url('img.jpg');
+  color: #0000FF;
+  border: none;
+  margin: none;
+}
+label {
+    display: inline-block;
+    size: 100;
+    text-align: left;
+    width: 600px;
+    height: 100px;
+    padding-bottom: 25px;
+    font-style: italic;
+
+
+
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
+  margin:75px;
+}
+input{
+  size: 100;
+  height: 100px;
+  width: 500px; 
+  font-size: 36;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+
+}
+.result{
+  size: 100px;
+  font-weight: bold;
+  font-style: italic;
+}
